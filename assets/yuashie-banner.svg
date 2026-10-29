@@ -3,7 +3,7 @@
 <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#182b3b"/></linearGradient><linearGradient id="kite" x2="1" y2="1"><stop stop-color="#91f2d2"/><stop offset="1" stop-color="#b6a7ff"/></linearGradient></defs>
 <rect width="1200" height="340" rx="22" fill="url(#bg)"/>
 <g fill="none" stroke="#91f2d2" opacity=".12"><circle cx="1030" cy="165" r="210"/><circle cx="1030" cy="165" r="150"/><circle cx="1030" cy="165" r="90"/><path d="M780 165h420M1030 0v340"/></g>
-<text x="64" y="65" fill="#91f2d2" font-family="monospace" font-size="14" letter-spacing="4">A PERSONAL WORKSHOP / EST. 2023</text>
+<text x="64" y="65" fill="#91f2d2" font-family="monospace" font-size="14" letter-spacing="4">A PERSONAL WORKSHOP / FIELD NOTES</text>
 <text x="60" y="159" fill="#f0f5fa" font-family="Arial,sans-serif" font-weight="700" font-size="80" letter-spacing="7">YUASHIE</text>
 <text x="64" y="214" fill="#c2d1e0" font-family="Arial,sans-serif" font-size="25">Build things worth keeping.</text>
 <text x="64" y="287" fill="#94a8bb" font-family="monospace" font-size="14" letter-spacing="2">TOOLS / WORLDS / SIGNALS / EVERYDAY LIFE</text>
