@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Yuashie — Build things worth keeping.</title><desc id="desc">Dark blue personal workshop banner with an orbital kite in mint and lavender.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101b31"/><stop offset="1" stop-color="#182b3b"/></linearGradient><linearGradient id="kite" x2="1" y2="1"><stop stop-color="#91f2d2"/><stop offset="1" stop-color="#b6a7ff"/></linearGradient></defs>
+<rect width="1200" height="340" rx="22" fill="url(#bg)"/>
+<g fill="none" stroke="#91f2d2" opacity=".12"><circle cx="1030" cy="165" r="210"/><circle cx="1030" cy="165" r="150"/><circle cx="1030" cy="165" r="90"/><path d="M780 165h420M1030 0v340"/></g>
+<text x="64" y="65" fill="#91f2d2" font-family="monospace" font-size="14" letter-spacing="4">A PERSONAL WORKSHOP / EST. 2023</text>
+<text x="60" y="159" fill="#f0f5fa" font-family="Arial,sans-serif" font-weight="700" font-size="80" letter-spacing="7">YUASHIE</text>
+<text x="64" y="214" fill="#c2d1e0" font-family="Arial,sans-serif" font-size="25">Build things worth keeping.</text>
+<text x="64" y="287" fill="#94a8bb" font-family="monospace" font-size="14" letter-spacing="2">TOOLS / WORLDS / SIGNALS / EVERYDAY LIFE</text>
+<path d="M1024 65l72 90-72 64-47-64z" fill="url(#kite)"/><path d="M1024 65v154m-47-64h119" stroke="#16263a" stroke-width="2" opacity=".45"/>
+<path d="M1024 219c-70 20 25 45-44 68-24 8-43 4-62 17" stroke="#91f2d2" stroke-width="2" fill="none"/>
+<circle cx="880" cy="84" r="4" fill="#b6a7ff"/><circle cx="1140" cy="261" r="4" fill="#91f2d2"/>
+</svg>
